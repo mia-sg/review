@@ -1,0 +1,10 @@
+/* Create classes in CSS before writing them into the HTML code */
+
+.btn-color-blue {
+    background-color: blue;
+    color: white;
+    border: 0px;
+    margin: 20px;
+    cursor: pointer;
+    box-shadow: 1px 0px 2px 2px grey;
+}
